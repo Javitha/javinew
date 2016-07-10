@@ -2,7 +2,7 @@
 int main()
 {
 
-if(printf("hello World\n")==NULL)
+if(printf("Hello World!\n")==NULL)
 {
 }
 return 0;
