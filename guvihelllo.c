@@ -1,10 +1,9 @@
 #include<stdio.h>
 int main()
 {
-int i;
-for(i=0;i<5;i++)
+
+if(printf("hello World\n")==NULL)
 {
-printf("hello World\n");
 }
 return 0;
 }
